@@ -1,4 +1,4 @@
-# Linn
+# Hej! 
 Linn's Rscripts for home assignments PSYP13
 
 In here the R scripts corresponding to the six home assignments for PSYP 13 are attached. 
